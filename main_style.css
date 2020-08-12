@@ -1,0 +1,22 @@
+#NAV{
+	font-size: 25px;
+}
+
+#profile_list{
+	font-size: 50px;
+}
+
+#nine{
+	font-size: 1000px;
+}
+
+#main_name{
+	font-size: 200px;
+}
+
+body{
+	background-image: url('supernova.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
